@@ -10,6 +10,8 @@ public class Guía_5_ejercicio_7_p1 {
         System.out.println("Este será el primer commit del práctico 1");
         System.out.println("Agregando el segundo commit cómo comentario");
         
+        System.out.println("Hay que agregarle un commit al proyecto");
+        
         //Creo las Matrices
 int[][] M = {
             {1, 2, 3, 4, 5, 6, 7, 8, 9, 10},
